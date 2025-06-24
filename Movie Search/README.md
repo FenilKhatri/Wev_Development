@@ -1,12 +1,10 @@
-# React + Vite
+# 🔥 React Movie Search App 🎬
+  I’ve built a fully functional Movie Search Website using React.js that integrates The Movie Database (TMDb) API to fetch real-time movie data. The app is designed to provide a seamless and interactive user experience without any backend, relying solely on frontend technologies and API consumption.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Key Features:
+  - **Home Page:** Displays a list of the most popular and trending movies.
+  - **In-built Search:** Allows users to search for any movie using keywords, powered by the TMDb API.
+  - **Add to Favourites:** Users can mark movies as favourites and view them later.
+  - **Favourites Page:** Displays a list of all favourite movies with no page reload, ensuring a smooth user experience using React state and context.
+  - **Responsive UI:** Built with React and styled for various screen sizes.
+  - This project helped me strengthen my skills in API integration, React hooks, React Context API, and state management in a real-world application.
